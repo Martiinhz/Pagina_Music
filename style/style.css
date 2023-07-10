@@ -1,0 +1,185 @@
+@import url('https://fonts.googleapis.com/css2?family=Karla:wght@400;700&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Karla', sans-serif;
+}
+
+.img1{
+    width: 100%;
+
+}
+
+.s1{
+    height:800px;
+    background: url(../images/angel.jpg);
+    background-size: cover;
+}
+
+.s1 h1{
+    font-size:250px;
+    color: white;
+    text-align: center;
+    padding-top: 233px;
+}
+
+.izquierda{
+    width: 50%;
+    float: left;
+    padding-left: 150px;
+    padding-top: 50px;
+}
+
+.derecha{
+    width: 50%;
+    float: right;
+    padding-left: 150px;
+}
+
+.clear{
+    clear: both;
+}
+
+.s2{
+    padding-top: 100px;
+}
+
+.s2 img{
+    padding-bottom: 10px;
+}
+
+.s2 h1{
+    font-size:60px;
+    color: rgb(232,97,165);
+}
+
+.s2 h2{
+    font-size:60px;
+}
+
+.s2 h1 b{
+    color: rgb(255,141,147);
+}
+
+.s2 button{
+    
+    color: white;
+    background-color: rgb(253,46,92);
+    padding: 20px 50px 20px 50px ;
+    border: none;
+    border-radius: 50px ;
+    margin-top: 20px;
+}
+
+.izquierda1{
+    width:50%;
+    float:left;
+    padding-left: 150px;
+}
+
+.derecha1{
+    width: 50%;
+    float: right;
+    padding-right: 100px;
+    padding-top: 50px;
+}
+
+.s3{
+    padding-top: 100px;
+}
+
+.s3 img{
+    padding-bottom: 10px;
+}
+
+.s3 h2{
+    font-size:60px;
+    
+}
+
+.s3 h1{
+    color: rgb(232,97,165);
+    font-size:60px;
+}
+
+
+.s3 h1 b{
+    color: rgb(255,141,147);
+}
+
+.s3 button{
+    
+    color: white;
+    background-color: rgb(253,46,92);
+    padding: 20px 50px 20px 50px ;
+    border: none;
+    border-radius: 50px ;
+    margin-top: 30px;
+}
+
+.s4{
+    height: 900px;
+    background: url(../images/raptis.png);
+    background-size: cover;
+}
+
+.hola{
+    width: 42%;
+    float: right;
+    padding-top: 327px;
+}
+
+.s4 h1{
+    color: white;
+    font-size: 60px;
+}
+
+.s4 p{
+    color: white;
+}
+
+.s4 button{
+    
+    color: white;
+    background-color: rgb(253,46,92);
+    padding: 20px 50px 20px 50px ;
+    border: none;
+    border-radius: 50px ;
+    margin-top: 30px;
+}
+
+.s5{
+    background-color: rgb(253,46,92);
+    color: white;
+    padding-left: 300px;
+    padding-top: 40px;
+}
+
+.caja1{
+    width:20%;
+    float: left;
+}
+
+.caja2{
+    width: 20%;
+    float: left;
+}
+
+.caja3{
+    width: 20%;
+    float: left;
+}
+hr{
+  width: 80%
+}
+
+footer b{
+    padding-right: 318px;
+    float: right;
+}
+
